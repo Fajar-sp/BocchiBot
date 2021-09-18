@@ -61,7 +61,7 @@
 Edit the required value in `config.json`.
 ```json
 {
-    "ownerBot": "62812xxxxxxxx@c.us", 
+    "ownerBot": "628228419944@c.us", 
     "prefix": "$",
     "uaOverride": "WhatsApp/2.2037.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
     "nao": "api-key",
@@ -74,16 +74,16 @@ Edit the required value in `config.json`.
 }
 ```
 
-`ownerBot`: your WhatsApp number.  
+`ownerBot` : 628228419944.  
 `prefix`: based on the latest update, you don't need to change the prefix, because this bot has multiple prefix.  
-`uaOverride`: your user agent.  
+`uaOverride`: UCOK  
 `nao`: SauceNAO API key. You can get it [here](https://saucenao.com/user.php) by creating an account.  
 `vhtear`: VHTear API key. You can get it [here](https://api.vhtear.com/) by purchasing his API key.  
 `melodic`: MelodicXT API key. You can use `administrator` key.   
 `tobz`: Tobz API key. You can use `BotWeA` key.   
 `lol`: LolHuman API key. You can get it [here](https://lolhuman.herokuapp.com/) by creating an account.  
-`authorStick`: name of the author sticker pack.  
-`packStick`: name of the sticker pack.  
+`authorStick` : M FAJAR.  
+`packStick`: M FAJAR  
 
 ## 🗣️ Changing language
 If you want to change the language to English, replace all `ind` function to `eng`.   
